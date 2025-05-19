@@ -10,6 +10,7 @@ import visao.FrmCadastroAluno;
  *
  * @author 10724263295
  */
+
 public class FrmMenuPrincipal extends javax.swing.JFrame {
 
     /**
